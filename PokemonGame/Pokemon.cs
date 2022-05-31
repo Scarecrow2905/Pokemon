@@ -31,7 +31,7 @@ namespace Pokemon
 
         public void Fight(Pokemon Pokemon)
         {
-            Console.WriteLine($"{Pokemon.name}"
+            Console.WriteLine($"{Pokemon.Name}");
         }
     }
 }

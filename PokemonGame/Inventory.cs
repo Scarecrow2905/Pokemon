@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Pokemon
 {
-    internal class Inventory
+    public class Inventory
     {
     }
 }
