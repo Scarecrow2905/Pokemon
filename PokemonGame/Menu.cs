@@ -126,6 +126,9 @@ namespace Pokemon
             Clear();
             Logo();
             ReadKey(true);
+            Clear();
+            Player.startGame();
+            ReadKey();
         }
 
         public int Run()
